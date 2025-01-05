@@ -1,5 +1,7 @@
 ## Installation
 
+[![Minimal CMake Build](https://github.com/howsen82/cmake/actions/workflows/cmake.yml/badge.svg)](https://github.com/howsen82/cmake/actions/workflows/cmake.yml)
+
 **Ubuntu**
 
 ```sh
